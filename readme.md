@@ -11,7 +11,7 @@
 ## :bookmark_tabs: Menu
 
 - [Overview](#scroll-overview)
-- [Prerequisites](:exclamation-prerequisites)
+- [Prerequisites](#exclamation-prerequisites)
 - [Directory Tree](#open_file_folder-directory-tree)
 - [Demo](#dvd-demo)
 
@@ -69,5 +69,4 @@ rust-project
 ├── Dockerfile
 └── readme.md
 ```
-## :dvd: Demo
 
