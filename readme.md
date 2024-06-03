@@ -2,10 +2,6 @@
 
 # API BDD Testing in Rust
 
-
-[Overview](#scroll-overview)
-•
-[Demo](#dvd-demo)
 </div>
 
 ## :bookmark_tabs: Menu
@@ -13,7 +9,6 @@
 - [Overview](#scroll-overview)
 - [Prerequisites](#exclamation-prerequisites)
 - [Directory Tree](#open_file_folder-directory-tree)
-- [Demo](#dvd-demo)
 
 # :scroll: Overview
 
